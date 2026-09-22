@@ -1,0 +1,9 @@
+{
+  "id": "local-graph-defaults",
+  "name": "Local Graph Defaults",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Açılan her Local Graph paneline kayıtlı bir ayar şablonu uygular. Şablon, açık bir panelden tek tıkla yakalanır.",
+  "author": "cll2000",
+  "isDesktopOnly": false
+}

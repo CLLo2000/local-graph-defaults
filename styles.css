@@ -1,0 +1,6 @@
+.local-graph-defaults-preview {
+  max-height: 320px;
+  overflow: auto;
+  font-size: 12px;
+  user-select: text;
+}
